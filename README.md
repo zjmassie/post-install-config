@@ -16,34 +16,71 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Configure Ticket Creation Permissions
+- Configure Agents (workers)
+- Configure Users (customers)
+- Configure Service Level Agreements (SLAs)
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/zjmassie/post-install-config/assets/139398375/1d161ed2-ffeb-4280-b9b7-a562c033328e)"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Roles within osTicket: Admin Panel-> Agents-> Roles
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/zjmassie/post-install-config/assets/139398375/dd323235-103a-4d88-a762-7c767ac0655b)"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Departments within osTicket: Admin Panel-> Agents-> Departments
+</p>
+<br />
+
+<img src="https://github.com/zjmassie/post-install-config/assets/139398375/3dd04db4-6a3e-4348-9fd6-f143ffb414c8)"/>
+</p>
+<p>
+Configure Teams within osTicket: Admin Panel-> Agents-> Teams
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/zjmassie/post-install-config/assets/139398375/8fda76ae-cf61-4066-9690-dc69b5a7f5e4)"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Ticket Creation Permissions: Admin Panel-> Users-> Settings-> Registration Required
 </p>
 <br />
+
+<img src="https://github.com/zjmassie/post-install-config/assets/139398375/d4bd57d4-338b-428f-9f17-3086d1b650ab)"/>
+</p>
+<p>
+Configure Agents within osTicket: Admin Panel-> Agent-> Add New
+</p>
+<br />
+
+<img src="https://github.com/zjmassie/post-install-config/assets/139398375/812e1edf-92a6-4890-baf4-da85894eb930)"/>
+</p>
+<p>
+Configure Users within osTicket: Agent Panel-> Users-> Add New
+</p>
+<br />
+
+<img src="https://github.com/zjmassie/post-install-config/assets/139398375/8195e21b-eab5-45e6-a5a3-ba2d7feac6c6)"/>
+</p>
+<p>
+Configure Service Level Agreements (SLAs): Admin Panel-> Manage-> SLA
+</p>
+<br />
+
+<img src="https://github.com/zjmassie/post-install-config/assets/139398375/bbaa8063-bff6-4a0f-b279-a141404aa2be)"/>
+</p>
+<p>
+Configure Help Topics: Admin Panel-> Manage-> Help Topics
+</p>
